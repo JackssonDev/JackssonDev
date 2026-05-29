@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Jackson Pereira Ribeiro 👋
 
-<!--
-**JackssonDev/JackssonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Sistemas de Informação | Python | Django | BI
 
-Here are some ideas to get you started:
+Atualmente em transição da área de logística para tecnologia,
+com foco em desenvolvimento back-end, automação e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre Mim
+
+📦 Experiência profissional em logística e prevenção de perdas
+
+📊 Conhecimento avançado em Excel e Power BI
+
+🐍 Desenvolvendo aplicações com Python e Django
+
+💡 Interesse em automação, dados e desenvolvimento web
+
+🎯 Em busca da primeira oportunidade na área de tecnologia
+
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+- Git & GitHub
+- Excel
+- Power BI
+
+## 🎯 Objetivos Atuais
+
+- [ ] Aprimorar JavaScript
+- [ ] Aprender SQL
+- [ ] Criar projetos full stack
+- [ ] Evoluir em Django
+- [ ] Conseguir primeira oportunidade em tecnologia
