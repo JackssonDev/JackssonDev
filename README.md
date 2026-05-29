@@ -1,9 +1,9 @@
-# Olá, eu sou Jackson Pereira Ribeiro 👋
+# Olá, eu sou Jackson Ribeiro 👋
 
 ### Estudante de Sistemas de Informação | Python | Django | BI
 
 Atualmente em transição da área de logística para tecnologia,
-com foco em desenvolvimento back-end, automação e análise de dados.
+com foco em desenvolvimento FullSatck, automação e análise de dados.
 
 
 ## 🚀 Sobre Mim
@@ -44,13 +44,6 @@ com foco em desenvolvimento back-end, automação e análise de dados.
 
 </p>
 
-## 📈 Estatísticas
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JackssonDev&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackssonDev&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 🔥 Streak Stats
 
