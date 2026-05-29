@@ -21,14 +21,44 @@ com foco em desenvolvimento back-end, automação e análise de dados.
 
 ## 🛠️ Tecnologias
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Django
-- Git & GitHub
-- Excel
-- Power BI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+## 📫 Conecte-se comigo
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jackson-ribeiro-625029216" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:jacksonpr74@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+## 📈 Estatísticas
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JackssonDev&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackssonDev&layout=compact&theme=tokyonight"/>
+</p>
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JackssonDev&theme=tokyonight)](https://git.io/streak-stats)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jackson+👋;Python+Developer;Django+Developer;Data+Analytics+Enthusiast"/>
+</p>
 
 ## 🎯 Objetivos Atuais
 
